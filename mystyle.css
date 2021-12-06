@@ -18,12 +18,16 @@ body {
   
   h4 {
       color: #ebdbb2;
-     }
+  }
 
   p {
-    color: #ebdbb2;
-    font-family: verdana;
-    font-size: 16;
+     color: #ebdbb2;
+     font-family: verdana;
+     font-size: 16;
+  }
+
+  ol {
+     color: #ebdbb2; 
   }
 
 #content .col {
