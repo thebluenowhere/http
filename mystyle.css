@@ -1,0 +1,55 @@
+body {
+    background-color: #282828;
+  }
+  
+  h1 {
+    color: #458588;
+    text-align: center;
+  }
+  h2 {
+      color: #458588;
+      text-align: center;
+  }
+  
+    
+  h3 {
+      color: #ebdbb2;
+  }
+
+  p {
+    color: #ebdbb2;
+    font-family: verdana;
+    font-size: 16;
+  }
+
+#content .col {
+  float: left;
+}
+
+#footer {
+  clear: left;
+}
+
+#image .col2 img {
+  float: left;
+}
+
+   /* unvisited link */
+a:link {
+  color: #cc241d
+}
+
+/* visited link */
+a:visited {
+  color: #689d6a;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: #458588;
+} 
