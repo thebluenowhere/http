@@ -1,2 +1,2 @@
 # website
-Learning HTML, tracking progress.
+Learning HTML & CSS whilst tracking progress in Python & Bash.
